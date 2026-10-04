@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://accelerator.covao.dev/sitemap.xml
